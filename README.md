@@ -1,5 +1,8 @@
 # CST StudyBot
 
+![StudyBot Demo](assets/studybot.png)
+
+
 **CST StudyBot** is an AI-powered revision assistant for the Cambridge Computer Science Tripos (Part IA). It uses **Google Gemini 2.5 Flash** and **RAG (Retrieval Augmented Generation)** to let you search, practice, and analyze past exam questions with examiner insights.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
