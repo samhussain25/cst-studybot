@@ -1,0 +1,15 @@
+# API Keys and Secrets
+config.py
+
+# Python Virtual Environment
+.venv/
+venv/
+__pycache__/
+
+# Data folders (Too big for GitHub)
+cst_db/
+exam_papers/
+reports/
+
+# OS junk
+.DS_Store

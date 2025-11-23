@@ -1,0 +1,198 @@
+[
+  {
+    "paper": 1,
+    "question_number": "1",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 4,
+    "mistakes": "No-one quite did it fully right in designing types and functions, though many came very close. Implied minor issues in full design."
+  },
+  {
+    "paper": 1,
+    "question_number": "2",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 7,
+    "mistakes": "Early parts had many cases to consider, offering plenty of opportunities to lose marks."
+  },
+  {
+    "paper": 1,
+    "question_number": "3",
+    "topic": "Object-Oriented Programming",
+    "difficulty": 3,
+    "mistakes": "Some solutions did not correctly use inheritance or fully describe example class structures."
+  },
+  {
+    "paper": 1,
+    "question_number": "5",
+    "topic": "Introduction to Probability",
+    "difficulty": 2,
+    "mistakes": "Some gave answers without full justification. In part b), students made small mistakes like forgetting a sqrt of deviation or stating they would use CLT but not applying it fully."
+  },
+  {
+    "paper": 1,
+    "question_number": "6",
+    "topic": "Introduction to Probability",
+    "difficulty": 8,
+    "mistakes": "Students often forgot to correctly compute total time or express probability as conditional probability. Common errors included not expressing X within correct bounds, not deriving geometric distribution computation, or not correctly deriving exponential distribution density. Parts on unbiased estimators were challenging, with many answers missing."
+  },
+  {
+    "paper": 1,
+    "question_number": "7",
+    "topic": "Algorithms",
+    "difficulty": 5,
+    "mistakes": "Many solutions failed to cover all special cases in pseudocode (empty tree, single element, single subtree, two subtrees but successor is a direct child of root). Common errors included failing to update all parent pointers, updating child pointers incorrectly leading to loops or multiple trees, and confusing 'explicit requirement' from part b) with BT2."
+  },
+  {
+    "paper": 1,
+    "question_number": "8",
+    "topic": "Algorithms",
+    "difficulty": 9,
+    "mistakes": "Many scripts left large parts blank. About half failed to use the ceiling function where needed in part a), and none gave the right answer for n=0 or 1. Few produced the fully correct formula for b). Not many identified multiple serious bugs in the code (part c) or provided correct fixing strategies. Invalid test cases were offered. Did not fully explain why mergesort was not stable."
+  },
+  {
+    "paper": 1,
+    "question_number": "9",
+    "topic": "Algorithms",
+    "difficulty": 7,
+    "mistakes": "Answers to part b) on stating and proving correctness properties were very poor. Students did a bad job of stating desired properties. Two students completely misunderstood the question, ignoring specified details like maximum capacity."
+  },
+  {
+    "paper": 1,
+    "question_number": "10",
+    "topic": "Algorithms",
+    "difficulty": 8,
+    "mistakes": "A sizeable minority misunderstood 'worst case \u03a9' bound, writing answers as if finding an O bound. Hardly any students truly understood amortized analysis, performing operations by rote without thinking, leading to issues with non-canonical applications."
+  },
+  {
+    "paper": 2,
+    "question_number": "1",
+    "topic": "Digital Electronics",
+    "difficulty": 2,
+    "mistakes": "Part b), requiring a simplified Boolean expression in a specific form, caused the most difficulties for some candidates."
+  },
+  {
+    "paper": 2,
+    "question_number": "2",
+    "topic": "Digital Electronics",
+    "difficulty": 4,
+    "mistakes": "Few candidates noticed Boolean expressions for part b)(iii) could be obtained by direct inspection of the state diagram for a 1-hot solution, instead using a longer state transition diagram approach."
+  },
+  {
+    "paper": 2,
+    "question_number": "3",
+    "topic": "Operating Systems",
+    "difficulty": 7,
+    "mistakes": "Did not understand the distinction between memory access and obtaining memory. Some incorrectly identified page tables as overhead. Incorrectly assumed page table access necessitates disk access, page table entry per byte, or equated smaller pages with more addresses. Confused paging hardware with software paging."
+  },
+  {
+    "paper": 2,
+    "question_number": "4",
+    "topic": "Operating Systems",
+    "difficulty": 3,
+    "mistakes": "Copying content directly from Wikipedia or other sources without demonstrating sufficient understanding."
+  },
+  {
+    "paper": 2,
+    "question_number": "5",
+    "topic": "Software and Security Engineering",
+    "difficulty": 5,
+    "mistakes": "Implicitly, some candidates struggled as the question 'separated out the candidates', indicating a range of understanding."
+  },
+  {
+    "paper": 2,
+    "question_number": "6",
+    "topic": "Software and Security Engineering",
+    "difficulty": 4,
+    "mistakes": "Less clueful students cited wrong parts of the textbook or used them incorrectly."
+  },
+  {
+    "paper": 2,
+    "question_number": "7",
+    "topic": "Discrete Mathematics",
+    "difficulty": 7,
+    "mistakes": "Part (a)(ii)(B) about multiplicative inverses in modular arithmetic was only answered properly approximately half the time. Part (b) was found to be more difficult, despite (b)(ii) being a direct application of (b)(i)."
+  },
+  {
+    "paper": 2,
+    "question_number": "8",
+    "topic": "Discrete Mathematics",
+    "difficulty": 9,
+    "mistakes": "Majority of answers were poor, with a significant number getting no marks or providing no answers, even for standard material in parts (a) and (b). Part (c) was the most challenging with only one perfect answer."
+  },
+  {
+    "paper": 2,
+    "question_number": "9",
+    "topic": "Discrete Mathematics",
+    "difficulty": 10,
+    "mistakes": "Very few answers, found quite hard. Part (a) (worth 10 marks) was mostly left unanswered."
+  },
+  {
+    "paper": 2,
+    "question_number": "10",
+    "topic": "Discrete Mathematics",
+    "difficulty": 5,
+    "mistakes": "A significant proportion produced answers that were not DFAs, with common errors including: forgetting transitions from error/final states, missing transitions for all alphabet elements, or multiple transitions for the same element. A common mistake for part (c) was not recognizing the accepted string must end in '412'."
+  },
+  {
+    "paper": 3,
+    "question_number": "1",
+    "topic": "Databases",
+    "difficulty": 5,
+    "mistakes": "Marks were lost for overly complex queries. In part b), 4 marks lost if only the co-actor relation was implemented without leveraging views, indicating a failure to use a simpler, intended approach."
+  },
+  {
+    "paper": 3,
+    "question_number": "2",
+    "topic": "Databases",
+    "difficulty": 8,
+    "mistakes": "Marks lost for bogus issues with M1. Difficulty in correct treatment of the weak entity in M2. Mistakes in representing M2 sometimes propagated to part (c). Many failed to see that a left join easily solves this problem. Some marks lost due to overly complex queries."
+  },
+  {
+    "paper": 3,
+    "question_number": "3",
+    "topic": "Introduction to Graphics",
+    "difficulty": 4,
+    "mistakes": "Part (a.i) was problematic: many did not realize it required finding an intersection with a plane first, or tried to intersect with a circle instead of a disc. Common mistake in part (c) was translating the direction of the ray."
+  },
+  {
+    "paper": 3,
+    "question_number": "4",
+    "topic": "Introduction to Graphics",
+    "difficulty": 7,
+    "mistakes": "In part (a), candidates missed the OpenGL context and suggested ray-tracing anti-aliasing solutions. In part (b), some modified the final colour instead of the diffuse reflectance component. In part (c), candidates forgot to invert matrix, incorrectly applied gamma, or both."
+  },
+  {
+    "paper": 3,
+    "question_number": "5",
+    "topic": "Interaction Design",
+    "difficulty": 3,
+    "mistakes": "Not reading the question fully. Not providing a definition for Gestalt principles, only simple examples, or referring to 'anomaly' as a principle. Not listing all information needed for each step, action sequence, or presenting answers like an instruction sheet. Identified differences were too similar."
+  },
+  {
+    "paper": 3,
+    "question_number": "6",
+    "topic": "Interaction Design",
+    "difficulty": 5,
+    "mistakes": "Not reading the question fully. Methods proposed in part a) did not involve users, or showed misunderstandings about how methods are conducted/data provided. Not all relevant stakeholders were listed, or candidates misunderstood the app's function. Design principles proposed were too generic or from other courses. Discussed trade-offs were too generic, unrelated, or unrealistic."
+  },
+  {
+    "paper": 3,
+    "question_number": "7",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 5,
+    "mistakes": "Surprisingly hard for many students to logically derive how many times systems beat each other. Some problems with the formulation of sub-question b3, and confusion between the binomial formula 'p' and significance value 'p'."
+  },
+  {
+    "paper": 3,
+    "question_number": "8",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 3,
+    "mistakes": "Mistakes in Viterbi by committing to a state without considering all timesteps. Overlapping answers for flaws in the last part led to not getting full scores."
+  },
+  {
+    "paper": 3,
+    "question_number": "9",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 6,
+    "mistakes": "Missed that data should be split so the test set had unseen brands. Missed that reducing training data is a way to improve early attack detection performance."
+  }
+]

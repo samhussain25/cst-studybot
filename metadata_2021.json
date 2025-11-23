@@ -1,0 +1,198 @@
+[
+  {
+    "paper": 1,
+    "question_number": "1",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 1,
+    "mistakes": "The question was generally too easy for an open book exam, leading to many students receiving full marks."
+  },
+  {
+    "paper": 1,
+    "question_number": "2",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 6,
+    "mistakes": "Very few students attempted this question, though those who did found various acceptable ways to solve it."
+  },
+  {
+    "paper": 1,
+    "question_number": "3",
+    "topic": "Object-Oriented Programming",
+    "difficulty": 7,
+    "mistakes": "Students failed to appreciate the question's specific context regarding access modifiers for static fields in a cut-down language, often just explaining standard modifiers or omitting knowledge of the 'package' modifier."
+  },
+  {
+    "paper": 1,
+    "question_number": "4",
+    "topic": "Object-Oriented Programming",
+    "difficulty": 6,
+    "mistakes": "Many students failed to identify the incomplete decorator pattern implementation (missing 'Reader' in 'Swapper' constructor) and struggled to identify specific examples of the open-closed principle."
+  },
+  {
+    "paper": 1,
+    "question_number": "5",
+    "topic": "Introduction to Probability",
+    "difficulty": 3,
+    "mistakes": "Mistakes in part a) included incorrect Poisson approximation and not adjusting for continuous approximation. Minor mistakes in b)ii) involved specifying density only for some values."
+  },
+  {
+    "paper": 1,
+    "question_number": "6",
+    "topic": "Introduction to Probability",
+    "difficulty": 5,
+    "mistakes": "Many students missed the need for approximation in a)iii). A common mistake in b)ii) was wrongly assuming independence of random variables. Part b)iii) was challenging, but good students still scored well."
+  },
+  {
+    "paper": 1,
+    "question_number": "7",
+    "topic": "Algorithms",
+    "difficulty": 5,
+    "mistakes": "Several students provided only average-case complexity instead of worst-case. Some algorithms were incorrect or inefficient. Comparisons with sorting algorithms were mixed. The main difficulty was computing memory requirements, with many discounting pointers or making unrealistic assumptions."
+  },
+  {
+    "paper": 1,
+    "question_number": "8",
+    "topic": "Algorithms",
+    "difficulty": 10,
+    "mistakes": "The question was deemed 'too difficult'. Students failed to fully describe data structures and update mechanisms in part (a). Over half missed the 'per unit time' requirement in part (b). Many solutions in part (c) were confusingly described or had incorrect asymptotic analysis. Few recognized the RAM limitation in part (e), and only a minority realized the practical irrelevance of complexity for tiny datasets in part (f)."
+  },
+  {
+    "paper": 1,
+    "question_number": "9",
+    "topic": "Algorithms",
+    "difficulty": 5,
+    "mistakes": "The question contained an error in the definition of 'Pareto efficient', making part (c) impossible as stated. Most students answered as if the definition were correct, but some identified the flaw."
+  },
+  {
+    "paper": 1,
+    "question_number": "10",
+    "topic": "Algorithms",
+    "difficulty": 2,
+    "mistakes": "The question was generally too easy, leading to many students achieving very high marks."
+  },
+  {
+    "paper": 2,
+    "question_number": "1",
+    "topic": "Digital Electronics",
+    "difficulty": 5,
+    "mistakes": "Part (b) caused difficulties for a fair number of students. In part (c), some failed to apply De Morgan's theorem correctly or did not provide the answer in the required product of sums form."
+  },
+  {
+    "paper": 2,
+    "question_number": "2",
+    "topic": "Digital Electronics",
+    "difficulty": 4,
+    "mistakes": "Few students attempted this question, but those who did scored well, suggesting minimal common mistakes among those prepared."
+  },
+  {
+    "paper": 2,
+    "question_number": "3",
+    "topic": "Operating Systems",
+    "difficulty": 4,
+    "mistakes": "Students performed less well on part (a) compared to part (b)."
+  },
+  {
+    "paper": 2,
+    "question_number": "4",
+    "topic": "Operating Systems",
+    "difficulty": 5,
+    "mistakes": "Students showed varied performance on more challenging parts (b, c(ii), d(ii)), though overall understanding was adequate."
+  },
+  {
+    "paper": 2,
+    "question_number": "5",
+    "topic": "Software and Security Engineering",
+    "difficulty": 5,
+    "mistakes": "Performance varied; some candidates were well prepared, while others showed partial knowledge or attempted to 'busk it'."
+  },
+  {
+    "paper": 2,
+    "question_number": "6",
+    "topic": "Software and Security Engineering",
+    "difficulty": 4,
+    "mistakes": "Some students did not think through the details as carefully as others."
+  },
+  {
+    "paper": 2,
+    "question_number": "7",
+    "topic": "Discrete Mathematics",
+    "difficulty": 3,
+    "mistakes": "Part (b) was the most challenging, though parts (a) and (c) were elementary."
+  },
+  {
+    "paper": 2,
+    "question_number": "8",
+    "topic": "Discrete Mathematics",
+    "difficulty": 5,
+    "mistakes": "Parts (a)(ii) and especially (b)(ii) were the most challenging for students."
+  },
+  {
+    "paper": 2,
+    "question_number": "9",
+    "topic": "Discrete Mathematics",
+    "difficulty": 5,
+    "mistakes": "Part (b) was the most challenging, while part (a) was easy with most students gaining full marks."
+  },
+  {
+    "paper": 2,
+    "question_number": "10",
+    "topic": "Discrete Mathematics",
+    "difficulty": 3,
+    "mistakes": "Most students understood the general idea but lacked the necessary rigour and completeness in their answers."
+  },
+  {
+    "paper": 3,
+    "question_number": "2",
+    "topic": "Databases",
+    "difficulty": 8,
+    "mistakes": "Very few students understood that part (b) related to a schema design problem (person id as part of the key for 'plays role') rather than an SQL issue."
+  },
+  {
+    "paper": 3,
+    "question_number": "3",
+    "topic": "Introduction to Graphics",
+    "difficulty": 3,
+    "mistakes": "Students lost marks in part (b) by not including correct equations or suggesting less efficient solutions (e.g., redundant barycentric coordinate checks)."
+  },
+  {
+    "paper": 3,
+    "question_number": "4",
+    "topic": "Introduction to Graphics",
+    "difficulty": 5,
+    "mistakes": "Common mistakes in part (b) included incorrect order of transformations and not assigning transformations to scene graph nodes. In part (c), few candidates identified both problems (non-uniform sampling and clustering prevention), and many lost marks due to poor pseudocode quality."
+  },
+  {
+    "paper": 3,
+    "question_number": "5",
+    "topic": "Interaction Design",
+    "difficulty": 7,
+    "mistakes": "Students failed to specify their own needs for a design, designed for wrong user groups, or provided arbitrary non-functional requirements. Designs in part (b) lacked interactive detail, didn't link to requirements, or were overly generic. In part (c), heuristic evaluation (HE) often lacked severity ratings, was not thorough, or misused heuristics."
+  },
+  {
+    "paper": 3,
+    "question_number": "6",
+    "topic": "Interaction Design",
+    "difficulty": 7,
+    "mistakes": "Not all students fully applied the cognitive walkthrough (CW) technique or linked findings to the evaluation. Some provided generic data gathering solutions unrelated to identified issues or confused user-based with analytical evaluation methods."
+  },
+  {
+    "paper": 3,
+    "question_number": "7",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 3,
+    "mistakes": "In part (c)(i), most students repeated definitions of in/out degrees instead of relating them to the specific fishing village context."
+  },
+  {
+    "paper": 3,
+    "question_number": "8",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 8,
+    "mistakes": "More than a third of students failed to correctly apply the Viterbi algorithm in part (b), making errors in maximisation, summing instead of maximizing, averaging, or misunderstanding initialisation. Many calculations led to lost time and incorrect steps. In part (a), some lacked formal care in showing undefined states."
+  },
+  {
+    "paper": 3,
+    "question_number": "9",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 9,
+    "mistakes": "In part (c), few students related the concept of subjective human annotations (measured by kappa) to the specific problem. Part (d) misled many into discussing statistical significance testing. Very few addressed both unseen and surprising words in (e)(ii). The final question suffered from rushed answers lacking detail due to time constraints, and the question had too many parts."
+  }
+]

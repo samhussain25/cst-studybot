@@ -1,0 +1,205 @@
+[
+  {
+    "paper": 1,
+    "question_number": "1",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 2,
+    "mistakes": "No significant common mistakes, generally high quality answers. Some parts allowed reuse of answers from earlier parts."
+  },
+  {
+    "paper": 1,
+    "question_number": "2",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 2,
+    "mistakes": "No specific mistakes noted; generally high quality answers."
+  },
+  {
+    "paper": 1,
+    "question_number": "3",
+    "topic": "Object-Oriented Programming",
+    "difficulty": 7,
+    "mistakes": "Candidates struggled, did not thoroughly read the question, or made the same point multiple times."
+  },
+  {
+    "paper": 1,
+    "question_number": "4",
+    "topic": "Object-Oriented Programming",
+    "difficulty": 5,
+    "mistakes": "Preference to write rather than draw (e.g., UML) made it harder to convey details."
+  },
+  {
+    "paper": 1,
+    "question_number": "5",
+    "topic": "Introduction to Probability",
+    "difficulty": 4,
+    "mistakes": "Some candidates struggled with the hypergeometric distribution (parts c, d). Part g was hard but many mastered it. Part e was ambiguously phrased."
+  },
+  {
+    "paper": 1,
+    "question_number": "6",
+    "topic": "Introduction to Probability",
+    "difficulty": 2,
+    "mistakes": "No specific mistakes noted; almost all candidates did very well."
+  },
+  {
+    "paper": 1,
+    "question_number": "7",
+    "topic": "Algorithms 1",
+    "difficulty": 8,
+    "mistakes": "Most candidates could not solve part (c). Many left parts (d) and (e) blank or performed poorly due to lack of time, despite being bookwork."
+  },
+  {
+    "paper": 1,
+    "question_number": "8",
+    "topic": "Algorithms 1",
+    "difficulty": 7,
+    "mistakes": "Part (a) justification was poor for many. Not all recognized Counting Sort or could append in constant time (b.i). Pointer manipulation was not impressive (b.ii). Proving optimality was impossible for those who missed the linear-time solution (b.iii)."
+  },
+  {
+    "paper": 1,
+    "question_number": "9",
+    "topic": "Algorithms 2",
+    "difficulty": 6,
+    "mistakes": "Imprecision in student writing and proofs. Part (c) was challenging; students answered glibly without thinking through potential issues with naive answers."
+  },
+  {
+    "paper": 1,
+    "question_number": "10",
+    "topic": "Algorithms 2",
+    "difficulty": 5,
+    "mistakes": "No comments provided."
+  },
+  {
+    "paper": 2,
+    "question_number": "1",
+    "topic": "Digital Electronics",
+    "difficulty": 6,
+    "mistakes": "Trouble finding minterms (b.i), errors in Q-M simplification (b.ii). Explanations for circuit function (c) lacked detail."
+  },
+  {
+    "paper": 2,
+    "question_number": "2",
+    "topic": "Digital Electronics",
+    "difficulty": 3,
+    "mistakes": "Parts (a) and (b.i) were too straightforward. Some students could not prove minimum states in (b.ii). More difficulties with metastability question (c), especially (c.ii)."
+  },
+  {
+    "paper": 2,
+    "question_number": "3",
+    "topic": "Operating Systems",
+    "difficulty": 6,
+    "mistakes": "Students failed to answer all parts of (a). CFS was not well understood or applied in (b), and candidates failed to state assumptions. Part (c) often focused on a single reason."
+  },
+  {
+    "paper": 2,
+    "question_number": "4",
+    "topic": "Operating Systems",
+    "difficulty": 5,
+    "mistakes": "Part (b) too easy. Part (c) required clearer descriptions. In (d), answers for TLB were not practical, only addressed the VALID bit, and not the DIRTY bit; students failed to answer the whole question."
+  },
+  {
+    "paper": 2,
+    "question_number": "5",
+    "topic": "Software and Security Engineering",
+    "difficulty": 4,
+    "mistakes": "No specific mistakes noted among those who attempted it; answers were as expected. Notation difference from lectures might have reduced attempts."
+  },
+  {
+    "paper": 2,
+    "question_number": "6",
+    "topic": "Software and Security Engineering",
+    "difficulty": 2,
+    "mistakes": "No specific mistakes noted; answers were consistent with solutions."
+  },
+  {
+    "paper": 2,
+    "question_number": "7",
+    "topic": "Discrete Mathematics",
+    "difficulty": 5,
+    "mistakes": "No comments provided."
+  },
+  {
+    "paper": 2,
+    "question_number": "8",
+    "topic": "Discrete Mathematics",
+    "difficulty": 5,
+    "mistakes": "No comments provided."
+  },
+  {
+    "paper": 2,
+    "question_number": "9",
+    "topic": "Discrete Mathematics",
+    "difficulty": 6,
+    "mistakes": "Some students mixed up sections and retractions (a). In part (d)(i), students assumed a trivial definition of bijection. In part (c), confusion between injectivity and determinacy was common."
+  },
+  {
+    "paper": 2,
+    "question_number": "10",
+    "topic": "Discrete Mathematics",
+    "difficulty": 7,
+    "mistakes": "Many found part (b)(ii) very difficult, failing to establish bounds or making incorrect arguments. Few students attempted the 'freebie' part (c), possibly due to time or course design."
+  },
+  {
+    "paper": 3,
+    "question_number": "1",
+    "topic": "Databases",
+    "difficulty": 6,
+    "mistakes": "Few candidates considered the duality of intersection and union in (a). In (d), many assumed 'definitely storing' instead of a case split. No credit for new operations not related to part c."
+  },
+  {
+    "paper": 3,
+    "question_number": "2",
+    "topic": "Databases",
+    "difficulty": 5,
+    "mistakes": "In part (c), some interpreted 'might be' as 'are' instead of considering a case split."
+  },
+  {
+    "paper": 3,
+    "question_number": "3",
+    "topic": "Introduction to Graphics",
+    "difficulty": 5,
+    "mistakes": "In part (a)(iii), very few noted HDR colour requires floating point or display encoding. In part (c), many made mistakes with the order of matrix operations."
+  },
+  {
+    "paper": 3,
+    "question_number": "4",
+    "topic": "Introduction to Graphics",
+    "difficulty": 8,
+    "mistakes": "Many did not identify 'banding' (a-i) or 'aliasing' (a-ii). Part (a-iii) was difficult. Part (b) was intended as moderate but proved difficult, with many not attempting it."
+  },
+  {
+    "paper": 3,
+    "question_number": "5",
+    "topic": "Interaction Design",
+    "difficulty": 4,
+    "mistakes": "In (a), some listed groups without using stakeholder analysis techniques. In (b), some lacked full Heuristic Evaluation detail. In (c), interview questions were not always meaningful or relevant. In (d), few described the qualitative data analysis process well."
+  },
+  {
+    "paper": 3,
+    "question_number": "6",
+    "topic": "Interaction Design",
+    "difficulty": 3,
+    "mistakes": "In (a), some requirements were inappropriate or too brief. In (b), designs were not user-group specific or lacked detail. In (c), user personas were not well-described or guidance was generic. In (d), principles were mentioned without describing interactive improvement."
+  },
+  {
+    "paper": 3,
+    "question_number": "7",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 9,
+    "mistakes": "Section B was a high-stakes part, requiring probability computations; students either got full marks or zero, with failure impacting Section C. Section E also had a low median score."
+  },
+  {
+    "paper": 3,
+    "question_number": "8",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 5,
+    "mistakes": "Some errors in the first question (standard definitions and calculation). The last part was challenging."
+  },
+  {
+    "paper": 3,
+    "question_number": "9",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 4,
+    "mistakes": "Part (c) regarding the feature independence assumption was not given frequently, possibly due to a lack of smoothing context."
+  }
+]

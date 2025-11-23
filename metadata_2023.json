@@ -1,0 +1,170 @@
+[
+  {
+    "paper": 1,
+    "question_number": "1",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 3,
+    "mistakes": "Many students provided a non-tail-recursive answer for part (c)."
+  },
+  {
+    "paper": 1,
+    "question_number": "2",
+    "topic": "Foundations of Computer Science",
+    "difficulty": 5,
+    "mistakes": "Marks were lost for efficiency, such as unnecessarily searching more regions of the tree than necessary."
+  },
+  {
+    "paper": 1,
+    "question_number": "3",
+    "topic": "Object-Oriented Programming",
+    "difficulty": 6,
+    "mistakes": "Errors were particularly made around the definition of cohesion and the UML diagram."
+  },
+  {
+    "paper": 1,
+    "question_number": "4",
+    "topic": "Object-Oriented Programming",
+    "difficulty": 5,
+    "mistakes": "Common mistakes included forgetting the 'For adults only' precondition, not adhering to basic Java principles (information hiding, inheritance), and SRP violations compromising encapsulation."
+  },
+  {
+    "paper": 1,
+    "question_number": "5",
+    "topic": "Introduction to Probability",
+    "difficulty": 9,
+    "mistakes": "Students didn't appreciate probabilities changing after draws, forgot to multiply for matches, incorrectly chose binomial instead of hypergeometric distribution, miscalculated probabilities for Y, and many did not attempt part (e)."
+  },
+  {
+    "paper": 1,
+    "question_number": "6",
+    "topic": "Introduction to Probability",
+    "difficulty": 4,
+    "mistakes": "Some confusion between maximum and minimum, forgetting to differentiate the cumulative distribution function, and incorrectly assuming E[X^2] = E[X]^2."
+  },
+  {
+    "paper": 1,
+    "question_number": "7",
+    "topic": "Algorithms 1",
+    "difficulty": 4,
+    "mistakes": "Errors in algebraic manipulation, failing to cover edge cases (empty/single-element list) in pseudocode, over/undercounting list length, and not considering null record/list inputs during insertion."
+  },
+  {
+    "paper": 1,
+    "question_number": "8",
+    "topic": "Algorithms 1",
+    "difficulty": 5,
+    "mistakes": "Building Huffman trees without considering the smallest aggregate frequency constraint, not accounting for all existing tree roots in merges, and glossing over details or assuming intermediate results in justifications for part (e)."
+  },
+  {
+    "paper": 1,
+    "question_number": "9",
+    "topic": "Algorithms 2",
+    "difficulty": 7,
+    "mistakes": "Many 'just run Dijkstra in reverse' answers without considering efficiency of reversing the graph or Dijkstra itself; difficulty in understanding 'asymptotic worst case' and 'improve on'."
+  },
+  {
+    "paper": 1,
+    "question_number": "10",
+    "topic": "Algorithms 2",
+    "difficulty": 8,
+    "mistakes": "Students often did not read the question properly, assumed it was a textbook 'count the stack' problem, or used potential functions without understanding how big-O notation and potential functions work together."
+  },
+  {
+    "paper": 2,
+    "question_number": "1",
+    "topic": "Digital Electronics",
+    "difficulty": 3,
+    "mistakes": "Some candidates used Boolean algebra instead of K-maps for part (a), making it harder to find the correct answer."
+  },
+  {
+    "paper": 2,
+    "question_number": "2",
+    "topic": "Digital Electronics",
+    "difficulty": 3,
+    "mistakes": "Most problems were experienced with part (c)."
+  },
+  {
+    "paper": 2,
+    "question_number": "3",
+    "topic": "Operating Systems",
+    "difficulty": 3,
+    "mistakes": "Confusion over unit conversion (1 millisecond = 1 million nanoseconds, not 1 thousand); not considering performance effects more broadly than memory subsystem/thrashing."
+  },
+  {
+    "paper": 2,
+    "question_number": "4",
+    "topic": "Operating Systems",
+    "difficulty": 5,
+    "mistakes": "Most students did not take into account the context switch of the idle process in part (b), and did not explain the mechanism of the exponential average algorithm well in part (c)."
+  },
+  {
+    "paper": 2,
+    "question_number": "8",
+    "topic": "Discrete Mathematics",
+    "difficulty": 4,
+    "mistakes": "No specific mistakes mentioned, but part (e) was slightly more difficult for students."
+  },
+  {
+    "paper": 2,
+    "question_number": "9",
+    "topic": "Discrete Mathematics",
+    "difficulty": 5,
+    "mistakes": "Students found parts a(ii) and b(iii) more challenging."
+  },
+  {
+    "paper": 2,
+    "question_number": "10",
+    "topic": "Discrete Mathematics",
+    "difficulty": 4,
+    "mistakes": "Using regular expression metacharacters outside the minimalist course syntax; providing diagrams for part (e) that only worked in some cases or were not technically DFAs; and not applying the pumping lemma correctly in part (f)."
+  },
+  {
+    "paper": 3,
+    "question_number": "1",
+    "topic": "Databases",
+    "difficulty": 2,
+    "mistakes": "No specific mistakes mentioned, as the question was considered too easy."
+  },
+  {
+    "paper": 3,
+    "question_number": "2",
+    "topic": "Databases",
+    "difficulty": 3,
+    "mistakes": "No specific mistakes mentioned."
+  },
+  {
+    "paper": 3,
+    "question_number": "3",
+    "topic": "Introduction to Graphics",
+    "difficulty": 6,
+    "mistakes": "Incorrectly stating negative dot product of R and V implies light is under surface (a.i); not noting view coordinates need scaling for texture coordinates (b.ii); forgetting homogenous coordinates must be transformed back to ordinary coordinates (b.ii); and not mentioning limited z-buffer precision (b.iii)."
+  },
+  {
+    "paper": 3,
+    "question_number": "4",
+    "topic": "Introduction to Graphics",
+    "difficulty": 6,
+    "mistakes": "Failing to note that 8-bit per channel data requires color to be display encoded (d); difficulty handling color spectral information (e)."
+  },
+  {
+    "paper": 3,
+    "question_number": "5",
+    "topic": "Interaction Design",
+    "difficulty": 7,
+    "mistakes": "Students struggled to relate their evaluation to specific usability issues, instead evaluating general website usability."
+  },
+  {
+    "paper": 3,
+    "question_number": "8",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 5,
+    "mistakes": "Many did not realize that defining a similarity matrix directly on the citation graph for part (e) does not make sense; some subtleties in part (c) were missed."
+  },
+  {
+    "paper": 3,
+    "question_number": "9",
+    "topic": "Machine Learning and Real-world Data",
+    "difficulty": 4,
+    "mistakes": "No specific mistakes mentioned, but some students were challenged by answering the question fully."
+  }
+]
