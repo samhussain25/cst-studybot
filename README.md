@@ -1,6 +1,3 @@
-Here is the full, non-truncated text.
-Markdown
-
 # CST StudyBot
 
 **CST StudyBot** is an AI-powered revision assistant for the Cambridge Computer Science Tripos (Part IA). It uses **Google Gemini 2.5 Flash** and **RAG (Retrieval Augmented Generation)** to let you search, practice, and analyze past exam questions with examiner insights.
