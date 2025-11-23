@@ -99,10 +99,9 @@ streamlit run app.py
 
 This will open the StudyBot in your browser at http://localhost:8501.
 
-Project Structure
+## Project Structure
 
-Plaintext
-
+```text
 cst-studybot/
 ├── app.py                 # The Main Streamlit UI
 ├── ingest.py              # Vision pipeline for Question Papers
@@ -113,6 +112,7 @@ cst-studybot/
 ├── requirements.txt       # Python dependencies
 ├── cst_db/                # Local Vector Database (Generated)
 └── exam_papers/           # PDF Storage (Generated)
+```
 
 Disclaimer
 
