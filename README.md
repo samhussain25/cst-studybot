@@ -33,8 +33,8 @@ cd cst-studybot
 ### 2. Install Dependencies
 
 It is recommended to use a virtual environment.
-Bash
-```
+
+```bash
 # Create virtual environment
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
