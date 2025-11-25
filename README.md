@@ -27,7 +27,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/cst-studybot.git](https://github.com/YOUR_USERNAME/cst-studybot.git)
+git clone https://github.com/YOUR_USERNAME/cst-studybot.git
 cd cst-studybot
 ```
 ### 2. Install Dependencies
@@ -79,24 +79,25 @@ Step 2: Add Examiners' Reports (Manual)
 Step 3: Ingest Questions
 
 Uses AI Vision to read the exam papers and store them in ChromaDB.
-Bash
+```Bash
 
 python ingest.py
-
+```
 Step 4: Analyze Metadata
 
 Reads the Examiners' Reports to extract difficulty scores and common mistakes.
-Bash
+```Bash
 
 python analyze_reports.py
-
+```
 Usage
 
 Once the pipeline is complete, launch the web interface:
+```
 Bash
 
 streamlit run app.py
-
+```
 This will open the StudyBot in your browser at http://localhost:8501.
 
 ## Project Structure
