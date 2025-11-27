@@ -93,8 +93,7 @@ python analyze_reports.py
 Usage
 
 Once the pipeline is complete, launch the web interface:
-```
-Bash
+```Bash
 
 streamlit run app.py
 ```
